@@ -1,6 +1,7 @@
 # sta-wknd-xwalk-e2e
 
 This is a project created by AEMY.
+E2E crosswalk test for site: https://wknd.site/.
 
 ## Environments
 
